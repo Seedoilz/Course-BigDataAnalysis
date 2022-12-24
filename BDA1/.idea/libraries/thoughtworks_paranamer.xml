@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="thoughtworks.paranamer" type="repository">
+    <properties maven-id="com.thoughtworks.paranamer:paranamer:2.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
